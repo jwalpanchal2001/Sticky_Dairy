@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sticky_Dairy.Api.props" />
+</Project>

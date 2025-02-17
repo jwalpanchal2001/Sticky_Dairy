@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sticky_Dairy.Api", "Sticky_Dairy.Api.csproj", "{07CECE3D-A3AD-439A-A4A3-960D5189A153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sticky_Dairy.Infrastructure", "..\Sticky_Diary.Infrastructure\Sticky_Dairy.Infrastructure.csproj", "{7C69E18B-2604-47A6-9CAA-4B07684F592B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sticky_Dairy.Domain", "..\Sticky_Diary.Domain\Sticky_Dairy.Domain.csproj", "{FBE6E48C-3E5A-4BE5-A6D7-3FD35D3D2FC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sticky_Dairy.Application", "..\Sticky_Diary.Application\Sticky_Dairy.Application.csproj", "{68DAA07A-BB18-4DF9-A4CE-E71359134C68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07CECE3D-A3AD-439A-A4A3-960D5189A153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CECE3D-A3AD-439A-A4A3-960D5189A153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CECE3D-A3AD-439A-A4A3-960D5189A153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CECE3D-A3AD-439A-A4A3-960D5189A153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C69E18B-2604-47A6-9CAA-4B07684F592B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C69E18B-2604-47A6-9CAA-4B07684F592B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C69E18B-2604-47A6-9CAA-4B07684F592B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C69E18B-2604-47A6-9CAA-4B07684F592B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBE6E48C-3E5A-4BE5-A6D7-3FD35D3D2FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE6E48C-3E5A-4BE5-A6D7-3FD35D3D2FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE6E48C-3E5A-4BE5-A6D7-3FD35D3D2FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE6E48C-3E5A-4BE5-A6D7-3FD35D3D2FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68DAA07A-BB18-4DF9-A4CE-E71359134C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68DAA07A-BB18-4DF9-A4CE-E71359134C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68DAA07A-BB18-4DF9-A4CE-E71359134C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68DAA07A-BB18-4DF9-A4CE-E71359134C68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

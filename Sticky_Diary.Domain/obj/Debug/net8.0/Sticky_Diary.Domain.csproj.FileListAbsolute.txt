@@ -1,0 +1,11 @@
+C:\Users\JwalPanchal\Downloads\MVC_core\Sticky_Diary.Domain\obj\Debug\net8.0\Sticky_Diary.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JwalPanchal\Downloads\MVC_core\Sticky_Diary.Domain\obj\Debug\net8.0\Sticky_Diary.Domain.AssemblyInfoInputs.cache
+C:\Users\JwalPanchal\Downloads\MVC_core\Sticky_Diary.Domain\obj\Debug\net8.0\Sticky_Diary.Domain.AssemblyInfo.cs
+C:\Users\JwalPanchal\Downloads\MVC_core\Sticky_Diary.Domain\obj\Debug\net8.0\Sticky_Diary.Domain.csproj.CoreCompileInputs.cache
+C:\Users\JwalPanchal\Downloads\MVC_core\Sticky_Diary.Domain\bin\Debug\net8.0\Sticky_Diary.Domain.deps.json
+C:\Users\JwalPanchal\Downloads\MVC_core\Sticky_Diary.Domain\bin\Debug\net8.0\Sticky_Diary.Domain.dll
+C:\Users\JwalPanchal\Downloads\MVC_core\Sticky_Diary.Domain\bin\Debug\net8.0\Sticky_Diary.Domain.pdb
+C:\Users\JwalPanchal\Downloads\MVC_core\Sticky_Diary.Domain\obj\Debug\net8.0\Sticky_Diary.Domain.dll
+C:\Users\JwalPanchal\Downloads\MVC_core\Sticky_Diary.Domain\obj\Debug\net8.0\refint\Sticky_Diary.Domain.dll
+C:\Users\JwalPanchal\Downloads\MVC_core\Sticky_Diary.Domain\obj\Debug\net8.0\Sticky_Diary.Domain.pdb
+C:\Users\JwalPanchal\Downloads\MVC_core\Sticky_Diary.Domain\obj\Debug\net8.0\ref\Sticky_Diary.Domain.dll

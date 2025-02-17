@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sticky_Diary.Application/1.0.0": {
+        "runtime": {
+          "Sticky_Diary.Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sticky_Diary.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

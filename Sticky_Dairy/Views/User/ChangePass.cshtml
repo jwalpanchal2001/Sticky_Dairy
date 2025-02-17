@@ -1,0 +1,95 @@
+﻿@model Sticky_Dairy.Domain.Models.ChangePassword
+
+@{
+	Layout = "_Layout";
+}
+
+<div style="margin-top: 100px" class="max-w-md mx-auto mt-10 p-6 bg-white rounded-lg shadow-lg">
+	<h2 class="text-3xl font-semibold text-center mb-6">Change Password</h2>
+	<!-- Success Message -->
+	@if (TempData["SuccessMessage"] != null)
+	{
+		<div id="success-message" class="mb-4 p-3 text-green-800 bg-green-100 border border-green-400 rounded-md">
+			@TempData["SuccessMessage"]
+		</div>
+	}
+
+	<form method="post" action="/User/ChangePass">
+		<!-- Old Password Field -->
+		<div class="mb-4">
+			<label for="OldPassword" class="block text-sm font-medium text-gray-700">Old Password</label>
+			<input type="password" id="OldPassword" name="OldPassword" class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-indigo-500 focus:border-indigo-500" required />
+			<div id="oldpassword-error" class="text-red-500 text-sm mt-1"></div>
+		</div>
+
+		<!-- New Password Field -->
+		<div class="mb-4">
+			<label for="NewPassword" class="block text-sm font-medium text-gray-700">New Password</label>
+			<input type="password" id="NewPassword" name="NewPassword" class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-indigo-500 focus:border-indigo-500" required maxlength="255" />
+			<div id="newpassword-error" class="text-red-500 text-sm mt-1"></div>
+		</div>
+
+		<!-- Confirm Password Field -->
+		<div class="mb-4">
+			<label for="ConfirmPassword" class="block text-sm font-medium text-gray-700">Confirm Password</label>
+			<input type="password" id="ConfirmPassword" name="ConfirmPassword" class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-indigo-500 focus:border-indigo-500" required maxlength="255" />
+			<div id="confirmpassword-error" class="text-red-500 text-sm mt-1"></div>
+		</div>
+
+		<!-- Validation Summary -->
+		<div asp-validation-summary="All" class="text-danger"></div>
+
+		<!-- Submit Button -->
+		<div class="mt-6">
+			<button type="submit" id="changePassBtn" class="w-full bg-indigo-600 text-white py-2 px-4 rounded-md hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500">
+				Change Password
+			</button>
+		</div>
+	</form>
+
+
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+	$(document).ready(function () {
+		$("#changePassBtn").click(function (event) {
+			event.preventDefault(); // Prevent form submission
+
+			let oldPassword = $('#OldPassword').val();
+			let newPassword = $('#NewPassword').val();
+			let confirmPassword = $('#ConfirmPassword').val();
+
+			let valid = true;
+
+			// Clear previous error messages
+			$('#oldpassword-error').text('');
+			$('#newpassword-error').text('');
+			$('#confirmpassword-error').text('');
+
+			// Validation checks
+			if (!oldPassword) {
+				$('#oldpassword-error').text("Old Password is required.");
+				valid = false;
+			}
+
+			if (!newPassword) {
+				$('#newpassword-error').text("New Password is required.");
+				valid = false;
+			}
+
+			if (!confirmPassword) {
+				$('#confirmpassword-error').text("Confirm Password is required.");
+				valid = false;
+			} else if (newPassword !== confirmPassword) {
+				$('#confirmpassword-error').text("Passwords do not match.");
+				valid = false;
+			}
+
+			// Submit form if all validations pass
+			if (valid) {
+				$("form").submit();
+			}
+		});
+	});
+</script>

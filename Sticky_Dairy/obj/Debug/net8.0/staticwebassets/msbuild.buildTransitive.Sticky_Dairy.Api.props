@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Sticky_Dairy.Api.props" />
+</Project>

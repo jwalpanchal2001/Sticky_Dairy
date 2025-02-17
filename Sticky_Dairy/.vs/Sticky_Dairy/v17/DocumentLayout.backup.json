@@ -1,0 +1,820 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE6E48C-3E5A-4BE5-A6D7-3FD35D3D2FC1}|..\\Sticky_Diary.Domain\\Sticky_Dairy.Domain.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.domain\\sticky_dairy.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_dairy\\views\\notes\\_noteform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|solutionrelative:views\\notes\\_noteform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_dairy\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|solutionrelative:controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_dairy\\views\\notes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|solutionrelative:views\\notes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_dairy\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_dairy\\sticky_dairy.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|solutionrelative:sticky_dairy.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_dairy\\sticky_dairy.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|solutionrelative:sticky_dairy.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_dairy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_dairy\\views\\user\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|solutionrelative:views\\user\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_dairy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_dairy\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_dairy\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_dairy\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|solutionrelative:views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_dairy\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|solutionrelative:views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_dairy\\views\\user\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|solutionrelative:views\\user\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_dairy\\views\\user\\changepass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|solutionrelative:views\\user\\changepass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_dairy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Migrations\\20250211050258_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_dairy\\wwwroot\\script\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|solutionrelative:wwwroot\\script\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_dairy\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{07CECE3D-A3AD-439A-A4A3-960D5189A153}|Sticky_Dairy.Api.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DAA07A-BB18-4DF9-A4CE-E71359134C68}|..\\Sticky_Diary.Application\\Sticky_Dairy.Application.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.application\\services\\stickynoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE6E48C-3E5A-4BE5-A6D7-3FD35D3D2FC1}|..\\Sticky_Diary.Domain\\Sticky_Dairy.Domain.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.domain\\models\\entities\\reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DAA07A-BB18-4DF9-A4CE-E71359134C68}|..\\Sticky_Diary.Application\\Sticky_Dairy.Application.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.application\\services\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C69E18B-2604-47A6-9CAA-4B07684F592B}|..\\Sticky_Diary.Infrastructure\\Sticky_Dairy.Infrastructure.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.infrastructure\\repository\\notes\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C69E18B-2604-47A6-9CAA-4B07684F592B}|..\\Sticky_Diary.Infrastructure\\Sticky_Dairy.Infrastructure.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.infrastructure\\sticky_dairy.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DAA07A-BB18-4DF9-A4CE-E71359134C68}|..\\Sticky_Diary.Application\\Sticky_Dairy.Application.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.application\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DAA07A-BB18-4DF9-A4CE-E71359134C68}|..\\Sticky_Diary.Application\\Sticky_Dairy.Application.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C69E18B-2604-47A6-9CAA-4B07684F592B}|..\\Sticky_Diary.Infrastructure\\Sticky_Dairy.Infrastructure.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.infrastructure\\repository\\users\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DAA07A-BB18-4DF9-A4CE-E71359134C68}|..\\Sticky_Diary.Application\\Sticky_Dairy.Application.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.application\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DAA07A-BB18-4DF9-A4CE-E71359134C68}|..\\Sticky_Diary.Application\\Sticky_Dairy.Application.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.application\\interface\\istickynoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DAA07A-BB18-4DF9-A4CE-E71359134C68}|..\\Sticky_Diary.Application\\Sticky_Dairy.Application.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.application\\interface\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE6E48C-3E5A-4BE5-A6D7-3FD35D3D2FC1}|..\\Sticky_Diary.Domain\\Sticky_Dairy.Domain.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.domain\\models\\entities\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE6E48C-3E5A-4BE5-A6D7-3FD35D3D2FC1}|..\\Sticky_Diary.Domain\\Sticky_Dairy.Domain.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.domain\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE6E48C-3E5A-4BE5-A6D7-3FD35D3D2FC1}|..\\Sticky_Diary.Domain\\Sticky_Dairy.Domain.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.domain\\models\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C69E18B-2604-47A6-9CAA-4B07684F592B}|..\\Sticky_Diary.Infrastructure\\Sticky_Dairy.Infrastructure.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C69E18B-2604-47A6-9CAA-4B07684F592B}|..\\Sticky_Diary.Infrastructure\\Sticky_Dairy.Infrastructure.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.infrastructure\\repository\\notes\\stickynoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C69E18B-2604-47A6-9CAA-4B07684F592B}|..\\Sticky_Diary.Infrastructure\\Sticky_Dairy.Infrastructure.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.infrastructure\\repository\\notes\\istickynoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C69E18B-2604-47A6-9CAA-4B07684F592B}|..\\Sticky_Diary.Infrastructure\\Sticky_Dairy.Infrastructure.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.infrastructure\\data\\sticky_dairy_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C69E18B-2604-47A6-9CAA-4B07684F592B}|..\\Sticky_Diary.Infrastructure\\Sticky_Dairy.Infrastructure.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.infrastructure\\repository\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C69E18B-2604-47A6-9CAA-4B07684F592B}|..\\Sticky_Diary.Infrastructure\\Sticky_Dairy.Infrastructure.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.infrastructure\\repository\\notes\\inoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C69E18B-2604-47A6-9CAA-4B07684F592B}|..\\Sticky_Diary.Infrastructure\\Sticky_Dairy.Infrastructure.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.infrastructure\\migrations\\sticky_dairy_dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C69E18B-2604-47A6-9CAA-4B07684F592B}|..\\Sticky_Diary.Infrastructure\\Sticky_Dairy.Infrastructure.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.infrastructure\\migrations\\20250211050540_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C69E18B-2604-47A6-9CAA-4B07684F592B}|..\\Sticky_Diary.Infrastructure\\Sticky_Dairy.Infrastructure.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.infrastructure\\repository\\notes\\reminderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C69E18B-2604-47A6-9CAA-4B07684F592B}|..\\Sticky_Diary.Infrastructure\\Sticky_Dairy.Infrastructure.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.infrastructure\\repository\\notes\\iattachmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C69E18B-2604-47A6-9CAA-4B07684F592B}|..\\Sticky_Diary.Infrastructure\\Sticky_Dairy.Infrastructure.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.infrastructure\\repository\\notes\\attachmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C69E18B-2604-47A6-9CAA-4B07684F592B}|..\\Sticky_Diary.Infrastructure\\Sticky_Dairy.Infrastructure.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.infrastructure\\repository\\notes\\ireminderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C69E18B-2604-47A6-9CAA-4B07684F592B}|..\\Sticky_Diary.Infrastructure\\Sticky_Dairy.Infrastructure.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.infrastructure\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DAA07A-BB18-4DF9-A4CE-E71359134C68}|..\\Sticky_Diary.Application\\Sticky_Dairy.Application.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.application\\sticky_dairy.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C69E18B-2604-47A6-9CAA-4B07684F592B}|..\\Sticky_Diary.Infrastructure\\Sticky_Dairy.Infrastructure.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.infrastructure\\sticky_dairy.infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE6E48C-3E5A-4BE5-A6D7-3FD35D3D2FC1}|..\\Sticky_Diary.Domain\\Sticky_Dairy.Domain.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.domain\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE6E48C-3E5A-4BE5-A6D7-3FD35D3D2FC1}|..\\Sticky_Diary.Domain\\Sticky_Dairy.Domain.csproj|c:\\users\\jwalpanchal\\downloads\\mvc_core\\sticky_diary.domain\\models\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Views\\Notes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Notes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Views\\Notes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Notes\\Index.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAIoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T05:33:36.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_NoteForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Views\\Notes\\_NoteForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Notes\\_NoteForm.cshtml",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Views\\Notes\\_NoteForm.cshtml",
+              "RelativeToolTip": "Views\\Notes\\_NoteForm.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T09:11:37.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T12:46:07.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StickyNoteService.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Application\\Services\\StickyNoteService.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Application\\Services\\StickyNoteService.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Application\\Services\\StickyNoteService.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Application\\Services\\StickyNoteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T06:16:45.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Reminder.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Domain\\Models\\Entities\\Reminder.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Domain\\Models\\Entities\\Reminder.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Domain\\Models\\Entities\\Reminder.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Domain\\Models\\Entities\\Reminder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:32:25.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sticky_Dairy.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Domain\\Sticky_Dairy.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Domain\\Sticky_Dairy.Domain.csproj",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Domain\\Sticky_Dairy.Domain.csproj",
+              "RelativeToolTip": "..\\Sticky_Diary.Domain\\Sticky_Dairy.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-10T12:28:06.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "Controllers\\NotesController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T19:07:31.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sticky_Dairy.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Sticky_Dairy.Api.csproj",
+              "RelativeDocumentMoniker": "Sticky_Dairy.Api.csproj",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Sticky_Dairy.Api.csproj",
+              "RelativeToolTip": "Sticky_Dairy.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T05:28:00.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NoteService.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Application\\Services\\NoteService.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Application\\Services\\NoteService.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Application\\Services\\NoteService.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Application\\Services\\NoteService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:56:36.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Repository\\Notes\\NoteRepository.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Infrastructure\\Repository\\Notes\\NoteRepository.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Repository\\Notes\\NoteRepository.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Infrastructure\\Repository\\Notes\\NoteRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:26:37.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Sticky_Dairy.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Sticky_Dairy.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Infrastructure\\Sticky_Dairy.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Sticky_Dairy.Infrastructure.csproj",
+              "RelativeToolTip": "..\\Sticky_Diary.Infrastructure\\Sticky_Dairy.Infrastructure.csproj",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAABMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-10T12:00:05.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T04:41:32.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sticky_Dairy.Api",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Sticky_Dairy.Api.csproj",
+              "RelativeDocumentMoniker": "Sticky_Dairy.Api.csproj",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Sticky_Dairy.Api.csproj",
+              "RelativeToolTip": "Sticky_Dairy.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T05:30:28.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Application\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Application\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Application\\Services\\EmailService.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Application\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAD4vxcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:15:06.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:13:16.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Repository\\Users\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Infrastructure\\Repository\\Users\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Repository\\Users\\IUserRepository.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Infrastructure\\Repository\\Users\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:31:28.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T05:16:29.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Application\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Application\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Application\\Interface\\IUserService.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Application\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:12:37.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T07:28:30.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Views\\User\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Views\\User\\ForgotPassword.cshtml",
+              "RelativeToolTip": "Views\\User\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T13:49:09.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IStickyNoteService.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Application\\Interface\\IStickyNoteService.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Application\\Interface\\IStickyNoteService.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Application\\Interface\\IStickyNoteService.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Application\\Interface\\IStickyNoteService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vw8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T06:11:23.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "INoteService.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Application\\Interface\\INoteService.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Application\\Interface\\INoteService.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Application\\Interface\\INoteService.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Application\\Interface\\INoteService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAWwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:55:36.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Domain\\Models\\Entities\\Attachment.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Domain\\Models\\Entities\\Attachment.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Domain\\Models\\Entities\\Attachment.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Domain\\Models\\Entities\\Attachment.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAvwBkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:30:59.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Domain\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Domain\\Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Domain\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Domain\\Models\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:32:31.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Domain\\Models\\Entities\\Note.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Domain\\Models\\Entities\\Note.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Domain\\Models\\Entities\\Note.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Domain\\Models\\Entities\\Note.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAArwBoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:32:22.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Infrastructure\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Repository\\Repository.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Infrastructure\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADgvxYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T06:35:17.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "StickyNoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Repository\\Notes\\StickyNoteRepository.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Infrastructure\\Repository\\Notes\\StickyNoteRepository.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Repository\\Notes\\StickyNoteRepository.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Infrastructure\\Repository\\Notes\\StickyNoteRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:19:49.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IStickyNoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Repository\\Notes\\IStickyNoteRepository.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Infrastructure\\Repository\\Notes\\IStickyNoteRepository.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Repository\\Notes\\IStickyNoteRepository.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Infrastructure\\Repository\\Notes\\IStickyNoteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:20:07.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Sticky_Dairy_dbContext.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Data\\Sticky_Dairy_dbContext.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Infrastructure\\Data\\Sticky_Dairy_dbContext.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Data\\Sticky_Dairy_dbContext.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Infrastructure\\Data\\Sticky_Dairy_dbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAWwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:35:10.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Repository\\Users\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Infrastructure\\Repository\\Users\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Repository\\Users\\UserRepository.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Infrastructure\\Repository\\Users\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:03:42.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "INoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Repository\\Notes\\INoteRepository.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Infrastructure\\Repository\\Notes\\INoteRepository.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Repository\\Notes\\INoteRepository.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Infrastructure\\Repository\\Notes\\INoteRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAD4vw0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:21:13.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Sticky_Dairy_dbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Migrations\\Sticky_Dairy_dbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Infrastructure\\Migrations\\Sticky_Dairy_dbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Migrations\\Sticky_Dairy_dbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Infrastructure\\Migrations\\Sticky_Dairy_dbContextModelSnapshot.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:38:55.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250211050540_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Migrations\\20250211050540_Initial.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Infrastructure\\Migrations\\20250211050540_Initial.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Migrations\\20250211050540_Initial.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Infrastructure\\Migrations\\20250211050540_Initial.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T05:05:40.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ReminderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Repository\\Notes\\ReminderRepository.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Infrastructure\\Repository\\Notes\\ReminderRepository.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Repository\\Notes\\ReminderRepository.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Infrastructure\\Repository\\Notes\\ReminderRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:28:27.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IAttachmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Repository\\Notes\\IAttachmentRepository.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Infrastructure\\Repository\\Notes\\IAttachmentRepository.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Repository\\Notes\\IAttachmentRepository.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Infrastructure\\Repository\\Notes\\IAttachmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:14:02.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AttachmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Repository\\Notes\\AttachmentRepository.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Infrastructure\\Repository\\Notes\\AttachmentRepository.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Repository\\Notes\\AttachmentRepository.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Infrastructure\\Repository\\Notes\\AttachmentRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:14:24.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IReminderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Repository\\Notes\\IReminderRepository.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Infrastructure\\Repository\\Notes\\IReminderRepository.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Repository\\Notes\\IReminderRepository.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Infrastructure\\Repository\\Notes\\IReminderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:22:58.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Infrastructure\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Repository\\IRepository.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Infrastructure\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T06:46:35.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T12:00:37.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T11:25:25.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "Views\\User\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T07:23:39.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChangePass.cshtml",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Views\\User\\ChangePass.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\ChangePass.cshtml",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Views\\User\\ChangePass.cshtml",
+              "RelativeToolTip": "Views\\User\\ChangePass.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T05:04:51.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Views\\User\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\Views\\User\\AccessDenied.cshtml",
+              "RelativeToolTip": "Views\\User\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T07:20:24.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Sticky_Dairy.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Application\\Sticky_Dairy.Application.csproj",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Application\\Sticky_Dairy.Application.csproj",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Application\\Sticky_Dairy.Application.csproj",
+              "RelativeToolTip": "..\\Sticky_Diary.Application\\Sticky_Dairy.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-11T04:54:38.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250211050258_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Migrations\\20250211050258_Initial.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Infrastructure\\Migrations\\20250211050258_Initial.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Migrations\\20250211050258_Initial.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Infrastructure\\Migrations\\20250211050258_Initial.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T05:02:58.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T12:48:36.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Sticky_Dairy.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Sticky_Dairy.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Infrastructure\\Sticky_Dairy.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Infrastructure\\Sticky_Dairy.Infrastructure.csproj",
+              "RelativeToolTip": "..\\Sticky_Diary.Infrastructure\\Sticky_Dairy.Infrastructure.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-10T13:05:42.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Domain\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Domain\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Domain\\Models\\LoginModel.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Domain\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:33:47.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ChangePassword.cs",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Domain\\Models\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "..\\Sticky_Diary.Domain\\Models\\ChangePassword.cs",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Diary.Domain\\Models\\ChangePassword.cs",
+              "RelativeToolTip": "..\\Sticky_Diary.Domain\\Models\\ChangePassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:33:41.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\wwwroot\\script\\index.js",
+              "RelativeDocumentMoniker": "wwwroot\\script\\index.js",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\wwwroot\\script\\index.js",
+              "RelativeToolTip": "wwwroot\\script\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-02T11:38:31.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\JwalPanchal\\Downloads\\MVC_core\\Sticky_Dairy\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAkwHIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-06T09:13:08.005Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
